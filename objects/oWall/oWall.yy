@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oJeff",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oWall",
+  "eventList":[],
   "managed":true,
-  "name":"oJeff",
+  "name":"oWall",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sWorm",
-    "path":"sprites/sWorm/sWorm.yy",
+    "name":"Fundo",
+    "path":"sprites/Fundo/Fundo.yy",
   },
   "spriteMaskId":null,
   "visible":true,
