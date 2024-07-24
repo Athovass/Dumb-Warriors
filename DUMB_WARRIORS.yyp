@@ -24,8 +24,11 @@
   "name":"DUMB_WARRIORS",
   "resources":[
     {"id":{"name":"CU","path":"objects/CU/CU.yy",},},
+    {"id":{"name":"oJeff","path":"objects/oJeff/oJeff.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"CU1","path":"sprites/CU1/CU1.yy",},},
+    {"id":{"name":"Fundo","path":"sprites/Fundo/Fundo.yy",},},
+    {"id":{"name":"sJeff","path":"sprites/sJeff/sJeff.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
