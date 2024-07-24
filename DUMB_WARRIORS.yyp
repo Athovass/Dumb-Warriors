@@ -23,7 +23,9 @@
   },
   "name":"DUMB_WARRIORS",
   "resources":[
+    {"id":{"name":"CU","path":"objects/CU/CU.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"CU1","path":"sprites/CU1/CU1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
